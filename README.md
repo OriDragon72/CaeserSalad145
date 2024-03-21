@@ -12,6 +12,6 @@ This project contains code for a Caeser's Cipher Decrypter in Python. The creato
 Follow the directions printed out onto the terminal:[type out the message you would like to decrypt].
 
 ## Files
-- `main.py`:[pythonFile]: Contains the main/final code for the Decrypter.
+- `main (3).py`:[pythonFile]: Contains the main/final code for the Decrypter.
 - `README`:[textFile/the one which you are currently reading]: Contains the documentation of the code and how it works
 - `LICENSE`: A text file that contains the license.
